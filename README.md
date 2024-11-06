@@ -15,6 +15,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript"  width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="react"  width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJs" alt="nodejs"  width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" alt="nestjs"  width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-original.svg" title="Jasmine" alt="jasmine"  width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="postman"  width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript"  width="50" height="50"/>&nbsp;
