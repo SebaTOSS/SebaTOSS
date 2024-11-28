@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/JIX9t2j0ZTN9S.webp" width="300" />
   <h1 align="center"> Hi 👋, I'm Seba</h1>
-  <h3 align="center">A passionate frontend developer from Argentina</h3>
+  <h3 align="center">A passionate developer from Argentina</h3>
 </div>
 
 ---
