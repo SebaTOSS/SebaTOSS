@@ -22,7 +22,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker"  width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="jira"  width="50" height="50"/>&nbsp;
     <img src="https://user-images.githubusercontent.com/493016/53073570-b24da200-34e8-11e9-8836-55dcad237fcc.png" title="Agile" alt="agile"  width="50" height="50"/>&nbsp;
-    <img src="https://user-images.githubusercontent.com/493016/53073570-b24da200-34e8-11e9-8836-55dcad237fcc.png" title="Web3" alt="web3"  width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-plain.svg" title="Web3" alt="web3"  width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="solidity"  width="50" height="50"/>&nbsp;
   </div>
 </div>
