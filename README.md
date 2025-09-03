@@ -5,6 +5,33 @@
   <h3 align="center">A passionate developer from Argentina</h3>
 </div>
 
+I'm a Computer Science professional with over a decade of experience in IT and 16 years of teaching at UNLP. 
+Based in La Plata, Argentina 🇦🇷
+
+### 🚀 Currently Learning
+- **Web3 & Blockchain Development**
+- **Solidity** for smart contract development
+- DeFi protocols and DAOs architecture
+
+### 💡 What I'm excited to build
+- **Distributed healthcare record systems** for patient data sovereignty
+- Blockchain-based medical history management with privacy controls
+- Smart contracts for transparent crowdfunding platforms
+- Decentralized health data exchanges between institutions
+- NFT-based educational credential systems
+- DeFi tools for the Latin American market
+- Web3 integration with traditional healthcare systems
+
+### 🛠️ Background
+- 10+ years in software development
+- Strong foundation in computer science fundamentals
+- Passionate about teaching and knowledge sharing
+
+### 📚 Interests
+Huge sci-fi fan (Asimov's Foundation series!), manga/comics reader, and martial arts practitioner turned gymnastics enthusiast.
+
+Feel free to reach out if you want to collaborate on Web3 projects or discuss the future of decentralized systems, especially in healthcare!
+
 ---
 <div align="left">
   <h3 align="center">🔨 Languages and tools that I am using or learning</h3>
